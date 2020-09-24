@@ -20,7 +20,7 @@ class Staff extends Component {
             <div>
                 <h1>Welcome {currentUserName }</h1>
                 <p>Email : {currentUserEmail}</p>
-                <p>You have reached the authorizede staff area of te portal</p>
+                <p>You have reached the authorized staff area of portal</p>
             </div>
          );
     }
